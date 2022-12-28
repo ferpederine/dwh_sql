@@ -2,6 +2,4 @@
 Code Respository for Stored Procedures and Materialized Views for the DWH / DL Module
 
 # Purpose
-This repo contains two folders - one containing SQL relating to the stored procedures, and a second containing analytical views created using Materliazed Views
-
-New info to be added
+This repo contains two folders - one containing SQL relating to the stored procedures, and a second containing analytical and staging views created using Materliazed Views
