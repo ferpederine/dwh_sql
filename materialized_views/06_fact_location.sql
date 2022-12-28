@@ -7,7 +7,7 @@ TABLESPACE pg_default
 AS
  SELECT "22_10_22_hls_people_hist_hub_flair"."HLS_ID",
     "22_10_22_hls_people_hist_hub_flair"."HLS_URL",
-    "22_10_22_hls_people_hist_hub_flair".first_name1,
+    "22_10_22_hls_people_hist_hub_flair".first_name,
     "22_10_22_hls_people_hist_hub_flair".last_name,
     "22_10_22_hls_people_hist_hub_flair".published,
     "22_10_22_hls_people_hist_hub_flair".author,
