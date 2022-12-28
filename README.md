@@ -33,4 +33,7 @@ This repo contains two folders - one containing SQL relating to the stored proce
         |--07_dwh_update_fact_influence.sql         # Update the influencer fact table
         |--08_dwh_update_fact_spread.sql            # Update the geographic spread fact table
         |--09_dwh_update_all_analytical_views.sql   # Refresh the main analytical views for Tableau
+
+    |--visuals\                                     # Contains the Tableau Workbook file
+        |--The Secret Council.twbx                  # The main Tableau workbook file
 ```
