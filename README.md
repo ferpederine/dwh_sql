@@ -12,6 +12,7 @@ This repo contains two folders - one containing SQL relating to the stored proce
     |--materialized_views\                          # All Materialized Views - Transforms and Load
         |--00_exploratory_data_analysis.sql         # A first MV to explore the data
         |--01_dim_author.sql                        # A list of article authors
+        |--01_dim_date_loading.sql                  # A custom date dimension spanning many past centuries
         |--02_dim_institute.sql                     # Institutes Categorised
         |--03_dim_location.sql                      # Detailed location information with a natural geographic hierarchy
         |--04_dim_name.sql                          # Source dimension for article related data
