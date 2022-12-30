@@ -1,6 +1,7 @@
 -- PROCEDURE: public.update_staging_table_new()
 
 -- DROP PROCEDURE IF EXISTS public.update_staging_table_new();
+-- Check proc
 
 CREATE OR REPLACE PROCEDURE public.update_staging_table_new(
 	)
